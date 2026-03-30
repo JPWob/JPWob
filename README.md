@@ -1,11 +1,9 @@
 
+#👋   Hi, I’m JudiWob 
 
+#💡  I’m currently learning at 42 Wolfsburg
 
-💡  Hi, I’m JudiWob 
-
-💡  I’m currently learning at 42 Wolfsburg
-
-### Languages & Core
+### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ### DevOps & Infrastructure
@@ -15,21 +13,30 @@
 - **Environment:** Makefile, Vim, VS Code, Zsh
 - **Debugging:** Valgrind, GDB, Leaks
 
-Content
-# Hi there, I'm [Your Name] 👋
-
-I am a software developer focused on low-level programming, system architecture, and efficient algorithms. Most of my work is written in C and C++, emphasizing memory management and performance.
-
 ## 🚀 Upcoming Challenges
 
 I am currently expanding my expertise into high-level systems architecture and Full-Stack development:
 
-* **Webserv** | Building a C++ HTTP/1.1 Server.
-    * *Upcoming skills:* Sockets, I/O multiplexing (`select`/`poll`), and CGI.
-* **Inception** | Infrastructure with Docker.
-    * *Upcoming skills:* Containerization, Nginx, and TLS/SSL security.
-* **ft_transcendence** | The Final Full-Stack Web App.
-    * *Upcoming skills:* NestJS/React, PostgreSQL, WebSockets, and OAuth2.
+### **Webserv** | Building a C++ HTTP/1.1 Server
+*Developing a non-blocking HTTP server from scratch.*
+* **Future Skills:** Sockets, I/O multiplexing (`select`/`poll`), and CGI.
+<p align="center">
+  <img src="https://i.ibb.co/X3Y7v6C/webserv-card.png" alt="Webserv - HTTP Server Architecture" width="600"/>
+</p>
+
+### **Inception** | Infrastructure with Docker
+*Architecting a multi-service environment using Docker Compose.*
+* **Future Skills:** Containerization, Nginx configuration, and TLS/SSL security.
+<p align="center">
+  <img src="https://i.ibb.co/0Vp9C0d/inception-card.png" alt="Inception - Docker Infrastructure" width="600"/>
+</p>
+
+### **ft_transcendence** | The Final Full-Stack Web App
+*Creating a real-time web application with a functional game and chat.*
+* **Future Skills:** NestJS/React, PostgreSQL, WebSockets, and OAuth2.
+<p align="center">
+  <img src="https://i.ibb.co/wJv0N6J/transcendence-card.png" alt="ft_transcendence - Full-Stack App" width="600"/>
+</p>
 
 ---
 ## 🛠 Finished Projects & Technical Focus
@@ -71,23 +78,6 @@ I am currently expanding my expertise into high-level systems architecture and F
 * **frees** | Specialized memory management and debugging utilities.
 
 ---
-
-## 🚀 Tech Stack & Tools
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-- **Debugging:** Valgrind, GDB, Leaks
-- **Build Systems:** Makefile, CMake
-- **OS:** Debian, MacOS, Alpine Linux
-
----
-
-### 📫 Connect with me:
-[Your LinkedIn Link] | [Your Portfolio Link]
 <!---
 JudiWob/JudiWob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
