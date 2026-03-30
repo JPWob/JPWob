@@ -40,8 +40,16 @@ I am currently expanding my expertise into high-level systems architecture and F
     *Concpepts:* NestJS/React, PostgreSQL, WebSockets, and OAuth2.
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+
 ---
-## 🛠 Finished Projects & Technical Focus
+## 🛠 Currently working on
+
+### 🌐 Object-Oriented Programming & Misc
+* **CPP-Modules** | Deep dive into C++ and OOP principles.
+    * Classes, polymorphism, templates, and the Orthodox Canonical Class Form.
+ 
+---
+## 🛠 Finished Projects (C) 
 
 ### 🖥 System Administration & Security
 * **Born2beRoot** | Set up a secure virtualized server environment.
@@ -73,11 +81,8 @@ I am currently expanding my expertise into high-level systems architecture and F
 * **so_long** | A 2D top-down game.
     * Event-loop handling, sprite rendering, and map parsing.
 
-### 🌐 Object-Oriented Programming & Misc
-* **CPP-Modules** | Deep dive into C++ and OOP principles.
-    * Classes, polymorphism, templates, and the Orthodox Canonical Class Form.
-* **JudiWob** | *[Insert specific focus here, e.g., Logic or Web Integration]*
-* **frees** | Specialized memory management and debugging utilities.
+
+
 
 ---
 <!---
