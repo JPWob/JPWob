@@ -1,43 +1,40 @@
 
-#👋   Hi, I’m JudiWob 
 
-#💡  I’m currently learning at 42 Wolfsburg
+### 👋   Hi, I’m JudiWob 
+I’m currently learning at 42 Wolfsburg
 
-### Languages
+ **Languages**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-### DevOps & Infrastructure
+**DevOps & Infrastructure**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-### Tools & Debugging
+**Tools & Debugging**
 - **Environment:** Makefile, Vim, VS Code, Zsh
 - **Debugging:** Valgrind, GDB, Leaks
 
-## 🚀 Upcoming Challenges
+### 🚀 Upcoming Challenges
 
 I am currently expanding my expertise into high-level systems architecture and Full-Stack development:
 
-### **Webserv** | Building a C++ HTTP/1.1 Server
-*Developing a non-blocking HTTP server from scratch.*
-* **Future Skills:** Sockets, I/O multiplexing (`select`/`poll`), and CGI.
-<p align="center">
-  <img src="https://i.ibb.co/X3Y7v6C/webserv-card.png" alt="Webserv - HTTP Server Architecture" width="600"/>
-</p>
+* #### **Webserv** | Building a C++ HTTP/1.1 Server
+    Developing a non-blocking HTTP server from scratch.
 
-### **Inception** | Infrastructure with Docker
-*Architecting a multi-service environment using Docker Compose.*
-* **Future Skills:** Containerization, Nginx configuration, and TLS/SSL security.
-<p align="center">
-  <img src="https://i.ibb.co/0Vp9C0d/inception-card.png" alt="Inception - Docker Infrastructure" width="600"/>
-</p>
+    *Concpepts:* Sockets, I/O multiplexing (`select`/`poll`), and CGI.
 
-### **ft_transcendence** | The Final Full-Stack Web App
-*Creating a real-time web application with a functional game and chat.*
-* **Future Skills:** NestJS/React, PostgreSQL, WebSockets, and OAuth2.
-<p align="center">
-  <img src="https://i.ibb.co/wJv0N6J/transcendence-card.png" alt="ft_transcendence - Full-Stack App" width="600"/>
-</p>
+* #### **Inception** | Infrastructure with Docker
+    Architecting a multi-service environment using Docker Compose.
 
+    *Concpepts:* Containerization, Nginx configuration, TLS/SSL security, WordPress, MariaDB (SQL)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+* **ft_transcendence** | The Final Full-Stack Web App
+    
+    Creating a real-time web application with a functional game and chat.
+
+    *Concpepts:* NestJS/React, PostgreSQL, WebSockets, and OAuth2.
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ---
 ## 🛠 Finished Projects & Technical Focus
 
