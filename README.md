@@ -25,7 +25,7 @@ I’m currently learning at 42 Wolfsburg
     * Classes, polymorphism, templates, and the Orthodox Canonical Class Form.
 
 ---
-### 🚀 Upcoming Challenges
+## 🚀 Upcoming Challenges
 
 I am currently expanding my expertise into high-level systems architecture and Full-Stack development:
 
