@@ -6,6 +6,7 @@ I’m currently learning at 42 Wolfsburg
  **Languages**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 **DevOps & Infrastructure**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -26,6 +27,7 @@ I am currently expanding my expertise into high-level systems architecture and F
     Architecting a multi-service environment using Docker Compose.
 
     *Concpepts:* Containerization, Nginx configuration, TLS/SSL security, WordPress, MariaDB (SQL)
+  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 * **ft_transcendence** | The Final Full-Stack Web App
