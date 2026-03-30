@@ -17,6 +17,14 @@ I’m currently learning at 42 Wolfsburg
 - **Environment:** Makefile, Vim, VS Code, Zsh
 - **Debugging:** Valgrind, GDB, Leaks
 
+---
+## 🛠 Currently working on
+
+### 🌐 Object-Oriented Programming & Misc
+* **CPP-Modules** | Deep dive into C++ and OOP principles.
+    * Classes, polymorphism, templates, and the Orthodox Canonical Class Form.
+
+---
 ### 🚀 Upcoming Challenges
 
 I am currently expanding my expertise into high-level systems architecture and Full-Stack development:
@@ -40,13 +48,6 @@ I am currently expanding my expertise into high-level systems architecture and F
     *Concpepts:* NestJS/React, PostgreSQL, WebSockets, and OAuth2.
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-
----
-## 🛠 Currently working on
-
-### 🌐 Object-Oriented Programming & Misc
-* **CPP-Modules** | Deep dive into C++ and OOP principles.
-    * Classes, polymorphism, templates, and the Orthodox Canonical Class Form.
  
 ---
 ## 🛠 Finished Projects (C) 
