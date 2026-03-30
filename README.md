@@ -1,6 +1,6 @@
 
 
-### 👋   Hi, I’m JudiWob 
+## 👋   Hi, I’m JudiWob 
 I’m currently learning at 42 Wolfsburg
 
  **Languages**
@@ -27,7 +27,7 @@ I’m currently learning at 42 Wolfsburg
 ---
 ## 🚀 Upcoming Challenges
 
-I am currently expanding my expertise into high-level systems architecture and Full-Stack development:
+After finishing CPP Modules I will dive into high-level systems architecture and Full-Stack development:
 
 * #### **Webserv** | Building a C++ HTTP/1.1 Server
     Developing a non-blocking HTTP server from scratch.
