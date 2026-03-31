@@ -20,7 +20,7 @@ I’m currently learning at 42 Wolfsburg
 ---
 ## 🛠 Currently working on
 
-### 🌐 Object-Oriented Programming & Misc
+### 🌐 Object-Oriented Programming
 * **CPP-Modules** | Deep dive into C++ and OOP principles.
     * Classes, polymorphism, templates, and the Orthodox Canonical Class Form.
 
